@@ -1,4 +1,4 @@
-# CMPS-3160-Crime-vs-Test-Project
+# CMPS-3160-Crime-vs-Academics-Project
 
 [**State Crime Dataset**](https://think.cs.vt.edu/corgis/csv/state_crime/)**:**
 
